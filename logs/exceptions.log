@@ -1,0 +1,786 @@
+2024-06-22T23:17:23.229Z [assignment] [31merror[39m: uncaughtException: logger is not defined
+ReferenceError: logger is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js:2:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:17:29.540Z [assignment] [31merror[39m: uncaughtException: Unexpected token 'const'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:5
+const cache = async (req, res, next) => {
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js:2:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:18:12.727Z [assignment] [31merror[39m: uncaughtException: l is not defined
+ReferenceError: l is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js:2:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:18:19.294Z [assignment] [31merror[39m: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Module.require (node:internal/modules/cjs/loader:1108:3)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:18:31.523Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../c'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../c'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:18:33.986Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../c'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../c'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:18:35.883Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../c'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../c'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:18:40.699Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../config'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../config'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\cache.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:23:13.144Z [assignment] [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\helpers\redisFunctions.js:7
+        redisClient.set(`${}`, `${data._id}`, "EX", 3600); // Cache data for 1 hour
+                           ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\helpers\index.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:34:14.400Z [assignment] [31merror[39m: uncaughtException: Identifier 'jwtAuth' has already been declared
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\jwtAuth.js:7
+const jwtAuth = (req, res, next) => {
+      ^
+
+SyntaxError: Identifier 'jwtAuth' has already been declared
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js:3:14)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:34:21.922Z [assignment] [31merror[39m: uncaughtException: Identifier 'jwtAuth' has already been declared
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\jwtAuth.js:7
+const jwtAuth = async (req, res, next) => {
+      ^
+
+SyntaxError: Identifier 'jwtAuth' has already been declared
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js:3:14)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:35:26.869Z [assignment] [31merror[39m: uncaughtException: logger is not defined
+ReferenceError: logger is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\jwtAuth.js:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\middlewares\index.js:3:14)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:42:01.705Z [assignment] [31merror[39m: uncaughtException: login is not defined
+ReferenceError: login is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:7:5)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:2:58)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:42:07.840Z [assignment] [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:8
+}
+^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:2:58)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:42:38.193Z [assignment] [31merror[39m: uncaughtException: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at pathtoRegexp (C:\Users\samar\OneDrive\Desktop\learning\Assignment\node_modules\path-to-regexp\index.js:63:49)
+    at new Layer (C:\Users\samar\OneDrive\Desktop\learning\Assignment\node_modules\express\lib\router\layer.js:45:17)
+    at Function.route (C:\Users\samar\OneDrive\Desktop\learning\Assignment\node_modules\express\lib\router\index.js:505:15)
+    at proto.<computed> [as post] (C:\Users\samar\OneDrive\Desktop\learning\Assignment\node_modules\express\lib\router\index.js:520:22)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:6:8)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:43:03.476Z [assignment] [31merror[39m: uncaughtException: jwt is not defined
+ReferenceError: jwt is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js:8:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:43:21.686Z [assignment] [31merror[39m: uncaughtException: jwtAuthcache is not defined
+ReferenceError: jwtAuthcache is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:12:25)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js:8:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:44:23.970Z [assignment] [31merror[39m: uncaughtException: U is not defined
+ReferenceError: U is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:7:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:44:26.337Z [assignment] [31merror[39m: uncaughtException: User is not defined
+ReferenceError: User is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:7:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:44:50.627Z [assignment] [31merror[39m: uncaughtException: Unexpected token 'const'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:5
+const login = async (req, res) => {
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:7:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:44:56.135Z [assignment] [31merror[39m: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Module.require (node:internal/modules/cjs/loader:1108:3)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:44:58.272Z [assignment] [31merror[39m: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at new NodeError (node:internal/errors:406:5)
+    at Module.require (node:internal/modules/cjs/loader:1110:11)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:3:16)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+2024-06-22T23:45:30.825Z [assignment] [31merror[39m: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Module.require (node:internal/modules/cjs/loader:1108:3)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:45:33.188Z [assignment] [31merror[39m: uncaughtException: json is not defined
+ReferenceError: json is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\loginController.js:4:21)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:7:12)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-22T23:49:27.535Z [assignment] [31merror[39m: uncaughtException: Cannot find module './updateUserSchema'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module './updateUserSchema'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js:5:23)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:49:41.776Z [assignment] [31merror[39m: uncaughtException: Cannot find module './updateUserSchema'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module './updateUserSchema'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:50:00.499Z [assignment] [31merror[39m: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Module.require (node:internal/modules/cjs/loader:1108:3)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\validation\index.js:4:23)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:54:59.288Z [assignment] [31merror[39m: uncaughtException: Unexpected token '}'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\userControllers.js:75
+            const redisKey = `${}`;
+                                ^
+
+SyntaxError: Unexpected token '}'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:55:23.117Z [assignment] [31merror[39m: uncaughtException: Unexpected token 'const'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\userControllers.js:7
+const createUser = async (req, res) => {
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:55:24.081Z [assignment] [31merror[39m: uncaughtException: Missing initializer in const declaration
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\userControllers.js:5
+const redisClient
+      ^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:55:33.110Z [assignment] [31merror[39m: uncaughtException: The "id" argument must be of type string. Received undefined
+TypeError [ERR_INVALID_ARG_TYPE]: The "id" argument must be of type string. Received undefined
+    at new NodeError (node:internal/errors:406:5)
+    at validateString (node:internal/validators:162:11)
+    at Module.require (node:internal/modules/cjs/loader:1108:3)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\userControllers.js:5:19)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-22T23:55:41.815Z [assignment] [31merror[39m: uncaughtException: Unexpected token 'const'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\userControllers.js:8
+const createUser = async (req, res) => {
+^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-22T23:55:44.573Z [assignment] [31merror[39m: uncaughtException: Re is not defined
+ReferenceError: Re is not defined
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\userControllers.js:6:21)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\controllers\index.js:2:13)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+2024-06-23T13:14:10.181Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:15:28.400Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:16:13.255Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:17:43.222Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:17:45.508Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:17:54.465Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:18:57.646Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:19:11.680Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:19:43.411Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:19:56.412Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T13:20:16.373Z [assignment] [31merror[39m: uncaughtException: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+Error: Cannot find module '../../middlewares'
+Require stack:
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js
+- C:\Users\samar\OneDrive\Desktop\learning\Assignment\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1048:15)
+    at Module._load (node:internal/modules/cjs/loader:901:27)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\routes\index.js:3:38)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+2024-06-23T19:21:19.785Z [assignment] [31merror[39m: uncaughtException: Unexpected token '??='
+/usr/src/app/node_modules/bson/lib/bson.cjs:143
+        TextDecoderFatal ??= new TextDecoder('utf8', { fatal: true });
+                         ^^^
+
+SyntaxError: Unexpected token '??='
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Module.require (internal/modules/cjs/loader.js:1003:19)
+    at require (internal/modules/cjs/helpers.js:107:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/mongodb/lib/bson.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+2024-06-23T19:21:34.768Z [assignment] [31merror[39m: uncaughtException: Unexpected token '??='
+/usr/src/app/node_modules/bson/lib/bson.cjs:143
+        TextDecoderFatal ??= new TextDecoder('utf8', { fatal: true });
+                         ^^^
+
+SyntaxError: Unexpected token '??='
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Module.require (internal/modules/cjs/loader.js:1003:19)
+    at require (internal/modules/cjs/helpers.js:107:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/mongodb/lib/bson.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+2024-06-23T19:21:47.744Z [assignment] [31merror[39m: uncaughtException: Unexpected token '??='
+/usr/src/app/node_modules/bson/lib/bson.cjs:143
+        TextDecoderFatal ??= new TextDecoder('utf8', { fatal: true });
+                         ^^^
+
+SyntaxError: Unexpected token '??='
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Module.require (internal/modules/cjs/loader.js:1003:19)
+    at require (internal/modules/cjs/helpers.js:107:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/mongodb/lib/bson.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+2024-06-23T19:21:52.341Z [assignment] [31merror[39m: uncaughtException: Unexpected token '??='
+/usr/src/app/node_modules/bson/lib/bson.cjs:143
+        TextDecoderFatal ??= new TextDecoder('utf8', { fatal: true });
+                         ^^^
+
+SyntaxError: Unexpected token '??='
+    at wrapSafe (internal/modules/cjs/loader.js:1029:16)
+    at Module._compile (internal/modules/cjs/loader.js:1078:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+    at Module.load (internal/modules/cjs/loader.js:979:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:819:12)
+    at Module.require (internal/modules/cjs/loader.js:1003:19)
+    at require (internal/modules/cjs/helpers.js:107:18)
+    at Object.<anonymous> (/usr/src/app/node_modules/mongodb/lib/bson.js:4:16)
+    at Module._compile (internal/modules/cjs/loader.js:1114:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1143:10)
+2024-06-24T08:21:42.151Z [assignment] [31merror[39m: uncaughtException: Unexpected identifier 'logger'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\helpers\redisFunctions.js:3
+const logger = require('../config/logger')
+      ^^^^^^
+
+SyntaxError: Unexpected identifier 'logger'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\helpers\index.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)
+2024-06-24T08:21:43.131Z [assignment] [31merror[39m: uncaughtException: Unexpected identifier 'logger'
+C:\Users\samar\OneDrive\Desktop\learning\Assignment\helpers\redisFunctions.js:2
+const redisClient = new Redis({const logger = require('../config/logger')
+                                     ^^^^^^
+
+SyntaxError: Unexpected identifier 'logger'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1153:20)
+    at Module._compile (node:internal/modules/cjs/loader:1205:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1295:10)
+    at Module.load (node:internal/modules/cjs/loader:1091:32)
+    at Module._load (node:internal/modules/cjs/loader:938:12)
+    at Module.require (node:internal/modules/cjs/loader:1115:19)
+    at require (node:internal/modules/helpers:130:18)
+    at Object.<anonymous> (C:\Users\samar\OneDrive\Desktop\learning\Assignment\helpers\index.js:2:15)
+    at Module._compile (node:internal/modules/cjs/loader:1241:14)

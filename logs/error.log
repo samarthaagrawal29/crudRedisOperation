@@ -1,0 +1,3 @@
+2024-06-22T23:44:04.294Z [assignment] [31merror[39m: userdata is not defined
+2024-06-22T23:44:35.995Z [assignment] [31merror[39m: bcrypt is not defined
+2024-06-22T23:45:04.197Z [assignment] [31merror[39m: jwt is not defined

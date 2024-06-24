@@ -1,0 +1,318 @@
+2024-06-22T23:16:04.553Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:06.669Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:07.459Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:16:14.008Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:14.487Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:16:17.730Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:19.448Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:20.361Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:16:24.338Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:25.097Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:16:29.181Z [assignment] [32minfo[39m: User Details Not Fount!!
+2024-06-22T23:16:49.494Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:16:50.163Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:16:58.368Z [assignment] [32minfo[39m: User Details Fount Successfully !!
+2024-06-22T23:17:18.708Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:17:19.258Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:17:34.494Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:17:34.972Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:17:37.865Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:17:38.496Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:17:45.098Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:17:46.868Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:17:47.346Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:17:51.479Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:17:51.918Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:18:20.892Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:18:21.722Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:18:44.913Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:18:45.386Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:18:51.509Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:18:52.127Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:18:54.027Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:18:54.788Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:18:59.623Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:19:00.079Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:19:06.337Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:19:06.764Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:19:09.940Z [assignment] [32minfo[39m: User Details Fount Successfully !!
+2024-06-22T23:19:52.595Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:19:53.389Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:19:56.925Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:19:57.666Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:20:09.090Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:20:09.859Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:20:27.447Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:20:27.906Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:20:29.776Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:20:30.242Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:20:43.215Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:20:43.683Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:20:45.804Z [assignment] [32minfo[39m: User Details Found Successfully !!
+2024-06-22T23:22:27.175Z [assignment] [32minfo[39m: User Body is Verified
+2024-06-22T23:22:27.312Z [assignment] [32minfo[39m: Password Salted Successfully!!
+2024-06-22T23:22:27.382Z [assignment] [32minfo[39m: New user created and cached in Redis
+2024-06-22T23:23:06.661Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:23:07.452Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:23:10.473Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:23:11.360Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:23:26.260Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:23:27.963Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:23:28.946Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:23:32.079Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:23:32.948Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:23:35.556Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:23:36.070Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:24:38.455Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:24:39.176Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:25:10.227Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:25:10.672Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:25:12.916Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:25:13.688Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:25:28.434Z [assignment] [32minfo[39m: User Body is Verified
+2024-06-22T23:25:28.577Z [assignment] [32minfo[39m: Password Salted Successfully!!
+2024-06-22T23:25:28.637Z [assignment] [32minfo[39m: New user created and cached in Redis
+2024-06-22T23:25:52.034Z [assignment] [32minfo[39m: Getting From Redis Cache!!
+2024-06-22T23:26:18.407Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:26:20.292Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:26:20.966Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:26:27.986Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:26:28.647Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:26:36.997Z [assignment] [32minfo[39m: Data Fetch Successfully!!
+2024-06-22T23:31:27.580Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:31:28.487Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:33:47.883Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:33:50.030Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:33:50.727Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:33:55.892Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:33:56.770Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:34:00.260Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:34:01.056Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:34:10.337Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:34:11.243Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:34:29.714Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:34:30.562Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:35:29.073Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:35:29.918Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:35:31.740Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:35:32.195Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:35:37.945Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:35:38.709Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:35:45.123Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:35:45.832Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:35:51.710Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:35:52.516Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:35:56.205Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:35:56.992Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:04.239Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:05.038Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:09.577Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:10.369Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:21.136Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:22.986Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:23.924Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:31.577Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:33.976Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:34.491Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:37.160Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:37.713Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:50.839Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:51.308Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:36:58.209Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:36:59.001Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:02.844Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:04.756Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:05.292Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:12.400Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:13.152Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:15.521Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:15.969Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:24.148Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:26.353Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:27.425Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:38.169Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:38.946Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:41.604Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:42.377Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:50.144Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:53.698Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:54.602Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:38:58.013Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:38:58.484Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:39:05.436Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:39:06.245Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:39:23.752Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:39:24.640Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:39:38.234Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:39:39.104Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:39:43.802Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:39:44.742Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:39:55.593Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:39:56.312Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:39:58.380Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:39:58.879Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:00.548Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:01.063Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:14.232Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:15.059Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:18.707Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:20.884Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:21.375Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:31.185Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:32.153Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:36.920Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:38.301Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:44.330Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:46.142Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:40:47.067Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:40:59.895Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:00.671Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:03.501Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:04.375Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:08.393Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:10.235Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:10.730Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:13.909Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:14.651Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:22.582Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:23.459Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:28.893Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:32.244Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:33.187Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:38.581Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:39.339Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:43.948Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:44.455Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:46.596Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:47.349Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:41:50.266Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:41:51.004Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:42:10.080Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:10.603Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:42:28.626Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:29.467Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:42:31.333Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:33.091Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:33.585Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:42:43.876Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:44.561Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:42:49.598Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:51.268Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:53.151Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:42:53.615Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:43:05.367Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:43:06.067Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:43:09.061Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:43:09.960Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:43:15.164Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:43:15.798Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:43:19.094Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:43:25.013Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:43:25.792Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:44:04.294Z [assignment] [31merror[39m: userdata is not defined
+2024-06-22T23:44:28.115Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:44:30.365Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:44:30.858Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:44:33.796Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:44:34.443Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:44:35.994Z [assignment] [33mwarn[39m: Invalid credentials
+2024-06-22T23:44:35.995Z [assignment] [31merror[39m: bcrypt is not defined
+2024-06-22T23:45:00.117Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:45:02.412Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:45:02.901Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:45:04.066Z [assignment] [33mwarn[39m: Invalid credentials
+2024-06-22T23:45:04.197Z [assignment] [31merror[39m: jwt is not defined
+2024-06-22T23:45:41.832Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:45:42.382Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:45:43.684Z [assignment] [33mwarn[39m: Invalid credentials
+2024-06-22T23:45:43.827Z [assignment] [32minfo[39m: Login Successfully
+2024-06-22T23:46:47.733Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-22T23:46:47.738Z [assignment] [32minfo[39m: Getting From Redis Cache!!
+2024-06-22T23:47:14.677Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:47:15.451Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:47:19.165Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-22T23:49:24.808Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:49:25.630Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:49:57.717Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:49:58.513Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:50:02.180Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:50:03.058Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:50:29.233Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:50:31.044Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:50:31.916Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:50:33.787Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:50:34.558Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:50:43.088Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:50:43.604Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:50:46.889Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-22T23:50:46.962Z [assignment] [32minfo[39m: Details Updated Successfully!!
+2024-06-22T23:51:24.573Z [assignment] [32minfo[39m: User Deleted Successfully!!
+2024-06-22T23:54:08.333Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:54:09.241Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:54:26.704Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:54:27.368Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:54:29.421Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:54:31.787Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:54:32.691Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:54:45.836Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:54:46.630Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:54:56.478Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:54:57.232Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:55:01.438Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:55:02.287Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:55:10.575Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:55:11.049Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:55:35.882Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:55:37.751Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:55:38.572Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:55:48.050Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:55:48.778Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:56:06.072Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:56:12.582Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-22T23:56:13.439Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-22T23:56:31.584Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-22T23:56:31.641Z [assignment] [32minfo[39m: Cache Deleted Successfully!!
+2024-06-22T23:56:31.642Z [assignment] [32minfo[39m: User Deleted Successfully!!
+2024-06-23T12:43:35.614Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T12:43:36.807Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T12:45:23.493Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-23T12:45:23.569Z [assignment] [32minfo[39m: User Body is Verified
+2024-06-23T12:45:23.714Z [assignment] [32minfo[39m: Password Salted Successfully!!
+2024-06-23T12:45:23.878Z [assignment] [32minfo[39m: New user created and cached in Redis
+2024-06-23T12:46:59.224Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T12:47:00.061Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T12:47:02.742Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T12:47:03.324Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T12:47:06.259Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T12:47:07.213Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T12:47:11.281Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T12:47:12.118Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T12:47:15.568Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T12:47:16.262Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T13:20:18.685Z [assignment] [32minfo[39m: Server Working on PORT = 5000
+2024-06-23T13:20:19.282Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T19:28:45.763Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-23T19:28:46.161Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-23T19:30:06.589Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-23T19:30:06.989Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T08:20:55.984Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T08:20:56.365Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T08:21:44.897Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T08:21:45.351Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T08:21:49.664Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T08:21:50.090Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T08:29:46.974Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T08:29:47.381Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T08:35:00.472Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-24T08:35:13.413Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-24T08:35:13.447Z [assignment] [32minfo[39m: User Body is Verified
+2024-06-24T08:35:13.510Z [assignment] [32minfo[39m: Password Salted Successfully!!
+2024-06-24T08:35:13.570Z [assignment] [32minfo[39m: New user created and cached in Redis
+2024-06-24T08:35:30.413Z [assignment] [32minfo[39m: User Verified Successfully!!
+2024-06-24T08:35:30.415Z [assignment] [32minfo[39m: Getting From Redis Cache!!
+2024-06-24T09:17:25.439Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T09:17:25.834Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T09:45:54.811Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T09:45:55.201Z [assignment] [32minfo[39m: MongoDB Connected!!
+2024-06-24T09:46:37.103Z [assignment] [32minfo[39m: Server Working on PORT
+2024-06-24T09:46:37.496Z [assignment] [32minfo[39m: MongoDB Connected!!
